@@ -1,5 +1,5 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.vsteam495);
+  m.reply(global.tanyxbenja);
 };
 handler.command = /^(tanyxbenja|tanixbenja)$/i;
 export default handler;
