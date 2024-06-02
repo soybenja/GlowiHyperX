@@ -21,12 +21,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `┏━━━━• *𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨* •━━━━┓
+    const str = `┏━━━━• *TANY BOT* •━━━━┓
 │╭─────────♡─────────╮
 ││•¡𝙃𝙊𝙇𝘼! @${m.sender.split`@`[0]}
 │╰─────────♡─────────╯
 ││•🚀𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝑩𝑬𝑵𝑱𝑨 wa.me/51936732723
-││•🚀𝙊𝙒𝙉𝙀𝙍 𝑻𝑨𝑵𝒀 wa.me/51917518909
 ││•🚀𝙑𝙀𝙍𝙎𝙄𝙊𝙉 𝘿𝙀𝙇 𝘽𝙊𝙏: 1.0
 ││•🚀𝙁𝙀𝘾𝙃𝘼: ${date}
 ││•🚀𝙉𝙄𝙑𝙀𝙇: ${level}
@@ -36,7 +35,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ││•🚀𝘾𝙊𝙄𝙉𝙎: ${money}
 ││•🚀𝙏𝙊𝙆𝙀𝙉𝙎: ${joincount}
 ││•🚀𝙏𝙄𝙀𝙈𝙋𝙊 𝘼𝘾𝙏: ${uptime}                                            
-┗━━━━━━━━• 𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨 •━━━━━━━━┛
+┗━━━━━━━━• TANY BOT •━━━━━━━━┛
 
 
 ┏━━• 𝘼𝘾𝙏𝙄𝙑𝘼𝙍/𝘿𝙀𝙎𝘼𝘾𝙏𝙄𝙑𝘼𝙍 •━━┓
