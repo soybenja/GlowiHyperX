@@ -36,12 +36,12 @@ global.owner = [
 global.suittag = ['51936732723'];
 global.prems = ['51936732723'];
 
-global.packname = '𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨';
-global.author = '𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨';
-global.wm = '𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨';
-global.titulowm = '𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨';
-global.titulowm2 = `𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨`
-global.igfg = '𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨';
+global.packname = 'HYPERX';
+global.author = 'HYPERX';
+global.wm = 'HYPERX';
+global.titulowm = 'HYPERX';
+global.titulowm2 = `HYPERX`
+global.igfg = 'HYPERX';
 global.wait = '🧸 𝘾𝙖𝙧𝙜𝙖𝙣𝙙𝙤....';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -62,9 +62,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('es-ar', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨`;
-global.gt = '𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨';
-global.mysticbot = '𝑻𝑨𝑵𝒀❤️‍𝑩𝑬𝑵𝑱𝑨';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ HYPERX`;
+global.gt = 'HYPERX';
+global.mysticbot = 'HYPERX';
 global.md = 'https://chat.whatsapp.com/HZkPROh4Xg4D6gKwjiQXWg';
 global.mysticbot = 'https://chat.whatsapp.com/HZkPROh4Xg4D6gKwjiQXWg';
 global.fgbot = 'https://chat.whatsapp.com/DWJnzejkk4X5uPnTklp0FH';
